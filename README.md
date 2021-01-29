@@ -13,5 +13,5 @@ TR
 Kodlar 'C' proglamlama dilinde yazılmıştır fakat 'graphics.h' kütüphanesini çalıştırabilmek için '.cpp' dosyasında açılması gerekir.
 Okunacak dosyanın yerini kendi bilgisayarınızda size uygun bir şekilde belirttikten sonra dosyamızı açalım.
 İçine "{X,Y}," formatında girmek istediğimiz koordinatları girelim. Programı çalıştıralım
-20*20 Kordinat düzleminde en küçük çevreleyen çemberi ve bezier eğrisini gösterecektir.
+20x20 Kordinat düzleminde en küçük çevreleyen çemberi ve bezier eğrisini gösterecektir.
 Grafik 800*800 formatında hazırlanmış olup korordinat düzlemi her nokta arası 20px'dir.
